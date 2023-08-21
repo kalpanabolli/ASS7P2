@@ -1,0 +1,8 @@
+D:\Phase2\day7\ass7\ass7\bin\Debug\ass7.exe.config
+D:\Phase2\day7\ass7\ass7\bin\Debug\ass7.exe
+D:\Phase2\day7\ass7\ass7\bin\Debug\ass7.pdb
+D:\Phase2\day7\ass7\ass7\obj\Debug\ass7.csproj.AssemblyReference.cache
+D:\Phase2\day7\ass7\ass7\obj\Debug\ass7.csproj.SuggestedBindingRedirects.cache
+D:\Phase2\day7\ass7\ass7\obj\Debug\ass7.csproj.CoreCompileInputs.cache
+D:\Phase2\day7\ass7\ass7\obj\Debug\ass7.exe
+D:\Phase2\day7\ass7\ass7\obj\Debug\ass7.pdb
